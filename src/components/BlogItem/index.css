@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+.blog-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
+  font-family: roboto;
+}
+
+.blog-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blog-header {
+  color: #12022f;
+  margin: 0px;
+  font-size: medium;
+}
+
+.blog-date {
+  color: #9aa5b1;
+  font-size: medium;
+}
+
+.blog-para {
+  color: #9aa5b1;
+  font-size: medium;
+}
+
+hr {
+  border: 1px solid #9aa5b1;
+  width: 100%;
+}

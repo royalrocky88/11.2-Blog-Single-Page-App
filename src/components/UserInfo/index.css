@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+
+.user-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+}
+
+.profile-logo {
+  height: 80px;
+  width: 80px;
+}
+
+.profile-header {
+  font-size: medium;
+  color: #12022f;
+}
+
+.profile-para {
+  color: #616e7c;
+  font-size: medium;
+}
